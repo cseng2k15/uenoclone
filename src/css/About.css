@@ -1,0 +1,12 @@
+.about{
+    font-family: 'IBM Plex Serif';
+    font-weight: "100px";
+    font-size: large;
+    letter-spacing: -.025em;
+    padding-bottom: 170px;
+    padding-top: 100px;
+    margin-right: -100px;
+    margin-left: -100px;
+    background-image: url("https://images.pexels.com/photos/37728/pexels-photo-37728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat:repeat-x;
+}

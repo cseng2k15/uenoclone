@@ -1,0 +1,13 @@
+.footer2{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 25px 25px 25px;
+}
+.social-media{
+    display: flex;
+    justify-content: space-around;
+}
+.social-media-icon{
+    padding: 0px 5px 5px 5px;
+    margin-top: -2.5px;
+}

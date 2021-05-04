@@ -1,0 +1,36 @@
+.footer1-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer1-content-left{
+    padding-left: 30px;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.footer1-content-right{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 30px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    margin: 0 0 6px 0;
+}
+
+.one{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    color: rgb(17, 17, 17);
+}
+
+.two{
+    padding-top: 0px;
+    margin-top: 0;
+    color: darkgray;
+    padding-left: 2px;
+}

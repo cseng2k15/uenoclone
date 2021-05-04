@@ -1,0 +1,29 @@
+.join-us-headings{
+    padding-left: 30px;
+}
+
+.join-us-locations{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.join-us-location{
+    padding: 20px 40px 40px 40px;
+    display: flex;
+}
+
+.join-us-locations-logo{
+    display: flex;
+    padding-left: 15px;
+    margin-top: -8px;
+}
+
+.join-us-locations-logo-symbol{
+    padding: 3px 3px 3px 3px;
+}
+
+#one{
+    padding-left: 7px;
+}
+

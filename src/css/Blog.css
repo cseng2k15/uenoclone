@@ -1,0 +1,38 @@
+.blog{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 150px;
+    padding-top: 100px;
+}
+
+.blog-blogs-blog{
+    padding-right: 20px;
+}
+
+.blog-blogs-blog-border{
+    padding-bottom: 20px;
+    border-top: 1px solid gray;
+    margin-top: -15px;
+}
+
+.blog-blogs-blog-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.blog-blogs-blog-time-category{
+    display: flex;
+    justify-content: space-around;
+    
+    padding-right: 40px;
+}
+
+.blog-blogs-blog-title{
+    padding-right: 40px;
+    width: 600px;
+}
+
+.blog-blogs-blog-read{
+    padding-right: 0px;
+}
